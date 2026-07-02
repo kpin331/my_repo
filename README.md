@@ -4,7 +4,12 @@ just nothing
 
 thats it.
 
-to clone it:
+to clone this project,u need to install these(if not):
+
+```bash
+pkg update && pkg upgrade -y && pkg install git -y
+```
+clone it:
 
 ```bash
 git clone https://github.com/kpin331/my_repo
