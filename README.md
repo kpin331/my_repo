@@ -21,4 +21,7 @@ and run it:
 python ~/my_repo/app.py
 ```
 
-and you'll asked to enter ur name and done
+and you'll asked to enter ur name,for stop:
+```bash
+CTRL + D
+```
