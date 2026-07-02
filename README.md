@@ -15,3 +15,5 @@ and run it:
 ```bash
 python ~/my_repo/app.py
 ```
+
+and you'll asked to enter ur name and done
