@@ -25,3 +25,6 @@ and you'll asked to enter ur name,for stop:
 ```bash
 CTRL + D
 ```
+
+and for ```add.py```:
+simply CTRL + C
