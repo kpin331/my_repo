@@ -28,3 +28,6 @@ CTRL + D
 
 and for ```add.py```:
 simply CTRL + C
+
+and limit.py:
+you can add ur item by typing 1 and adding limit
