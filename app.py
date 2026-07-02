@@ -1,3 +1,6 @@
-ask = input("whats is ur name ")
+while True:
+    ask = input("whats is ur name ")
 
-print(f"hi {ask}")
+    print(f"hi {ask}")
+
+
